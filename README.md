@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![GitHub stars](https://img.shields.io/github/stars/guilhermecapitao/proffy-discovery)](https://https://github.com/henriqtm1/NextLevelWeek-Proffy)<space> <space>[![GitHub license](https://img.shields.io/github/license/guilhermecapitao/proffy-discovery)](https://https://github.com/henriqtm1/NextLevelWeek-Proffy/blob/master/LICENSE)<space> <space>[![GitHub forks](https://img.shields.io/github/forks/guilhermecapitao/proffy-discovery)](https://https://github.com/henriqtm1/NextLevelWeek-Proffy/network)
+[![GitHub stars](https://img.shields.io/github/stars/henriqtm1/NextLevelWeek-Proffy)](https://https://github.com/henriqtm1/NextLevelWeek-Proffy)<space> <space>[![GitHub license](https://img.shields.io/github/license/henriqtm1/NextLevelWeek-Proffy)](https://https://github.com/henriqtm1/NextLevelWeek-Proffy/blob/master/LICENSE)<space> <space>[![GitHub forks](https://img.shields.io/github/forks/henriqtm1/NextLevelWeek-Proffy)](https://https://github.com/henriqtm1/NextLevelWeek-Proffy/network)
 
 </div>
 
