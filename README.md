@@ -1,6 +1,12 @@
-<h3 align="center">
-  *🚧 Em construção 🚧*
-</h3>
+<p align="center">
+  <img src="https://ik.imagekit.io/capitao/Proffy/nlw2_6d7PvlHZ5.svg" width="150" >
+</p>
+
+<div align="center">
+
+[![GitHub stars](https://img.shields.io/github/stars/guilhermecapitao/proffy-discovery)](https://https://github.com/henriqtm1/NextLevelWeek-Proffy)<space> <space>[![GitHub license](https://img.shields.io/github/license/guilhermecapitao/proffy-discovery)](https://https://github.com/henriqtm1/NextLevelWeek-Proffy/blob/master/LICENSE)<space> <space>[![GitHub forks](https://img.shields.io/github/forks/guilhermecapitao/proffy-discovery)](https://https://github.com/henriqtm1/NextLevelWeek-Proffy/network)
+
+</div>
 
 ## 📋 Índice
 
@@ -14,7 +20,7 @@
 ## 🖥 Preview 
 
 <p align="center">
-  <img src="https://ik.imagekit.io/capitao/Proffy/preview_9WT1Wt2Jz.png" width="700" >
+  <img src="https://ik.imagekit.io/capitao/Proffy/final_1596781937_urgAUoPC-.jpg" width="700" >
 </p>
 
 ---
@@ -36,7 +42,7 @@ O projeto está desenvolvido utilizando as seguintes tecnologias:
 - JavaScript
 - Node.js 
 - Nunjucks 
-- <s>SQLite</s> (próximas aulas 🚧)
+- SQLite 
 
 --- 
 
@@ -45,10 +51,13 @@ O projeto está desenvolvido utilizando as seguintes tecnologias:
 ```bash
 # Clonar o repositório
 git clone https://https://github.com/henriqtm1/NextLevelWeek-Proffy
+
 # Entrar no diretório
 cd proffy-discovery
+
 # Baixar as dependências
-npm install
+npm i
+
 # Executar o servidor
 npm run dev
 ```
@@ -56,7 +65,6 @@ npm run dev
 Feito isso, abra o seu navegador e acesse `http://localhost:5500/`
 
 ---
-
 
 
 Desenvolvido com 💜 por Henrique Marinho
